@@ -1,0 +1,15 @@
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\Polis_Sinarmas_API.exe.config
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\NLog.config
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\Polis_Sinarmas_API.exe
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\Polis_Sinarmas_API.pdb
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\CommandLine.dll
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\Newtonsoft.Json.dll
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\NLog.dll
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\RestSharp.dll
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\CommandLine.xml
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\Newtonsoft.Json.xml
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\NLog.xml
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\bin\Debug\RestSharp.xml
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\obj\Debug\Polis_Sinarmas_API.csprojResolveAssemblyReference.cache
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\obj\Debug\Polis_Sinarmas_API.exe
+D:\proj\Polis_Sinarmas_API\Polis_Sinarmas_API\obj\Debug\Polis_Sinarmas_API.pdb
