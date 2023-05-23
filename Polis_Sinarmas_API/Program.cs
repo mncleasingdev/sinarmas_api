@@ -43,7 +43,7 @@ namespace Polis_Sinarmas_API
                                                         WHERE LSAGREE NOT IN (SELECT LSAGREE FROM LS_INS_SPPA_D WHERE LSAGREE IS NOT NULL)
                                                         AND CONTRACT_STATUS = 'GOLIVE'
                                                         AND DISBURSEDT IS NOT NULL
-                                                        AND PRODUCT_FACILITY_CODE IN ('112','215') ", conn))
+                                                        AND PRODUCT_FACILITY_CODE IN ('112','215')", conn))
 
                 {
                     
